@@ -1,0 +1,28 @@
+_repo: Quelques-recherches-sur-le-tombeau-de-Virgile-au-mont-Pausilipe--1840-_17602
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Peignot, Gabriel
+    birthdate: 1767
+    deathdate: 1849
+    gutenberg_agent_id: '7483'
+    url: http://www.gutenberg.org/2009/agents/7483
+    wikipedia: http://fr.wikipedia.org/wiki/Gabriel_Peignot
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2006-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17602'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Virgil'
+title: Quelques recherches sur le tombeau de Virgile au mont Pausilipe (1840)
+url: http://www.gutenberg.org/ebooks/17602
