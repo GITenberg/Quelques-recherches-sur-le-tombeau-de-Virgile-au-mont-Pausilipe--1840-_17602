@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7483
     wikipedia: http://fr.wikipedia.org/wiki/Gabriel_Peignot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17602#Quelques-recherches-sur-le-tombeau-de-Virgile-au-mont-Pausilipe--1840-
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2006-01-25'
 gutenberg_type: Text
